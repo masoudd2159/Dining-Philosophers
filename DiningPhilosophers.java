@@ -3,7 +3,7 @@ import java.util.concurrent.Semaphore;
 /**
  * @author Masoud Dabbaghi
  * @version 1.0
- * @link https://github.com/masoudd2159
+ * @link https://github.com/masoudd2159/Dining-Philosophers
  * @since 2019
  **/
 
